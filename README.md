@@ -1,10 +1,8 @@
 # pyMicrogridControl
-pyMicrogridControl: A Python package for simulating and optimising microgrid operations. Explore intelligent control mechanisms, renewable energy integration, and dynamic energy storage strategies. Efficiently manage local energy systems with this versatile microgrid simulation tool.
-# pyMicrogridControl
 
 ## Overview
 
-`pyMicrogridControl` is a Python script that simulates the operation of a microgrid. The microgrid includes solar panels, wind turbines, a battery, a consumer, a PID controller, and a main grid. The script models the exchange of power between these components over a simulated 24-hour period.
+`pyMicrogridControl` is a Python framework for simulating the operation and control of a microgrid using a PID controller. The microgrid can include solar panels, wind turbines, a battery bank, and the main grid. The script models the exchange of power between these components over a simulated 24-hour period. Explore intelligent control mechanisms, renewable energy integration, and dynamic energy storage strategies. Efficiently manage local energy systems with this versatile microgrid simulation tool.
 
 ## Features
 
